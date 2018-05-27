@@ -15,14 +15,16 @@ Parse strings using a specification based on the Python format() syntax.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/parse-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/parse-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/parse-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/parse-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/parse-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/parse-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/parse-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/parse-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/parse-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/parse-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/parse-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/parse-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/parse/badges/version.svg)](https://anaconda.org/conda-forge/parse)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/parse/badges/downloads.svg)](https://anaconda.org/conda-forge/parse)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-parse-green.svg)](https://anaconda.org/conda-forge/parse) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/parse.svg)](https://anaconda.org/conda-forge/parse) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/parse.svg)](https://anaconda.org/conda-forge/parse) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/parse.svg)](https://anaconda.org/conda-forge/parse) |
 
 Installing parse
 ================
