@@ -1,6 +1,6 @@
 {% set name = "parse" %}
-{% set version = "1.14.0" %}
-{% set sha256 = "95a4f4469e37c57b5e924629ac99926f28bee7da59515dc5b8078c4c3e779249" %}
+{% set version = "1.15.0" %}
+{% set sha256 = "a6d4e2c2f1fbde6717d28084a191a052950f758c0cbd83805357e6575c2b95c0" %}
 
 package:
   name: {{ name|lower }}
@@ -34,7 +34,7 @@ about:
   license: MIT
   license_file: LICENSE
   license_family: MIT
-  summary: 'parse() is the opposite of format()'
+  summary: parse() is the opposite of format()
   description: |
     Parse strings using a specification based on the Python format() syntax.
   doc_url: https://github.com/r1chardj0n3s/parse/blob/master/README.rst
