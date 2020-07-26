@@ -5,7 +5,7 @@ Home: https://github.com/r1chardj0n3s/parse
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: parse() is the opposite of format()
 
