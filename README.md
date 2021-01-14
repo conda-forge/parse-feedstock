@@ -5,9 +5,13 @@ Home: https://github.com/r1chardj0n3s/parse
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/parse-feedstock/blob/master/LICENSE.txt)
 
 Summary: parse() is the opposite of format()
+
+Development: https://github.com/r1chardj0n3s/parse
+
+Documentation: https://github.com/r1chardj0n3s/parse/blob/master/README.rst
 
 Parse strings using a specification based on the Python format() syntax.
 
