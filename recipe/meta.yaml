@@ -1,6 +1,6 @@
 {% set name = "parse" %}
-{% set version = "1.22.2" %}
-{% set sha256 = "8ff0b98202798b8cefa4f8fac06b670d6d00e5ec6ecbbacaf97ac0d0e93a54e6" %}
+{% set version = "1.22.3" %}
+{% set sha256 = "7e79bb39c72c3bf1613510fd5cdffe5baa9a7873892bef1d4566f1672c8a42f4" %}
 
 package:
   name: {{ name|lower }}
